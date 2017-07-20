@@ -474,7 +474,8 @@
   link-1-url: ''
   link-2-label: ''
   link-2-url: ''
-  image-1: ''
+  image-1: >-
+    https://s3.amazonaws.com/kinlane-productions/google-maps/google-mapping-javascript-post.png
   image-2: ''
   video: ''
   audio: ''
@@ -574,7 +575,8 @@
   link-1-url: ''
   link-2-label: ''
   link-2-url: ''
-  image-1: 'https://s3.amazonaws.com/kinlane-productions/amazon/amazon-s3-icon.png'
+  image-1: >-
+    https://s3.amazonaws.com/kinlane-productions/amazon/amazon-s3-launch-post.png
   image-2: ''
   video: ''
   audio: ''
@@ -602,7 +604,8 @@
   link-1-url: ''
   link-2-label: ''
   link-2-url: ''
-  image-1: 'https://s3.amazonaws.com/kinlane-productions/amazon/amazon-ec2-icon.png'
+  image-1: >-
+    https://s3.amazonaws.com/kinlane-productions/amazon/amazon-ec2-launch-post.png
   image-2: ''
   video: ''
   audio: ''
@@ -699,7 +702,8 @@
   link-1-url: ''
   link-2-label: ''
   link-2-url: ''
-  image-1: 'http://kinlane-productions.s3.amazonaws.com/instagram.PNG'
+  image-1: >-
+    https://s3.amazonaws.com/kinlane-productions/instagram/instagram-dev-launch.png
   image-2: ''
   video: ''
   audio: ''
