@@ -1,0 +1,46 @@
+---
+layout: default
+title: Twitter API Lesson
+---
+
+<section id="banner">
+  <div class="content">
+    <header>
+      <h2>{{ site.title }}</h2>
+    </header>
+    <h3>Table of Contents</h3>
+    <p><img src="https://s3.amazonaws.com/kinlane-productions/twitter/lessons/twitter-logo.png" align="right" width="45%" /></p>
+    <p>{{ site.description }}</p>
+    <ul>
+    {% for lesson in site.data.twitter %}
+      <li><a href="#{{ lesson.title }}">{{ lesson.title }}</a></li>
+    {% endfor %}
+    </ul>
+  <div>
+</section>
+<a name="toplesson"></a>
+{% for lesson in site.data.twitter %}
+  <section id="banner">
+		<div class="content">
+			<header>
+				<h2>{{ lesson.title }}</h2>
+			</header>
+      <a name="{{ lesson.title }}"></a>
+      {% if lesson.image-1 != '' %}<p align='center'><img src="{{ lesson.image-1 }}" width="45%" align="right" style="padding: 15px;" /></p>{% endif %}
+      <p>{{ lesson.description }}</p>
+      {% if lesson.image-2 != '' %}<p align='center'><img src="{{ lesson.image-2 }}" width="65%" style="padding: 15px;" /></p>{% endif %}
+
+      {% if lesson.issue != '' %}<p><a href="{{ lesson.issue }}" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/github/github-issue-opened.png" align="right" width="50" title="Github Issue For This Step In The Lesson" /></a></p>{% endif %}
+
+      {% if lesson.link-1-url != '' or lesson.link-2-url != '' %}
+        <div class="lesson-meta">
+          <p><strong>Links</strong></p>
+          <ul>
+            {% if lesson.link-1-url != '' %}<li><a href="{{ lesson.link-1-url }}" target="_blank">{{ lesson.link-1-label }}</a></li>{% endif %}
+            {% if lesson.link-2-url != '' %}<li><a href="{{ lesson.link-2-url }}" target="_blank">{{ lesson.link-2-label }}</a></li>{% endif %}
+          </ul>
+        </div>
+      {% endif %}
+    <div>
+  </section>
+{% endfor %}

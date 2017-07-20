@@ -1,0 +1,469 @@
+- slug: twitter-versus-api
+  title: Twitter Web vs. Mobile vs. API
+  description: >-
+    <p>The Twitter website is available at twitter.com, providing you a listing
+    of activity across your network (if you are logged in). When you navigate to
+    twitter.com/following you will see ywho you are following, or to
+    twitter.com/followers you will see your followers. This side of the Twitter
+    platform provides humans with what they need to participate on the platform
+    from within their browser--each page returns HTML which the browser
+    displays.</p><p>The Twitter mobile applications provides the same
+    functionality as the website but rather than through a browser, it delivers
+    data, content, and media through a native mobile application, which makes
+    calls the Twitter API to get what it needs about users, tweets, and other
+    data. Early Twitter mobile applications were developed by the Twitter API
+    community, but eventually Twitter acquired, and got into the business of
+    operating their own mobile applications to ensure a certain quality of
+    services, and protect their brand and the platform experience.</p><p>The
+    Twitter API drives the Twitter mobile application(s), and aspects of the
+    Twitter website, but it also lets other 3rd party web, and mobile
+    applications deliver solutions that are built on top of Twitter data,
+    content, and media. Instead of returning HTML for users in a browser, the
+    Twitter API returns JSON which can then be used anywhere on the Twitter
+    platform, and across 3rd party applications. Twitter is so much more than
+    just a website and mobile application, it is a platform that supports an
+    endless number integrations and applications deployed around the globe.</p>
+  link-1-label: Twitter Web
+  link-1-url: 'https://twitter.com'
+  link-2-label: Twitter Mobile
+  link-2-url: 'https://twitter.com/download'
+  image-1: >-
+    https://s3.amazonaws.com/kinlane-productions/twitter/lessons/twitter-home-page.png
+  image-2: ''
+  video: ''
+  audio: ''
+  issue: 'https://github.com/api-evangelist-api-consumer-lessons/twitter/issues/1'
+- slug: the-twitter-platform
+  title: The Twitter Platform
+  description: >-
+    <p>There are several moving parts that make up the Twitter Platform. The
+    public, web and mobile Twitter applications are the front facing presence of
+    Twitter, and what many users see and know as Twitter. Once you pull back the
+    curtan a little bit on the Twitter website, you begin to see there is a
+    platform of API-driven services and tools, which make up a larger Twitter
+    Plaform.</p> <ul> <li><strong>Twitter APIs</strong> - This is the main set
+    of web APIs that Twitter has provided since 2006.</li> <li><strong>Streaming
+    APIs</strong> - A set of streaming APIs allowing developers to consume
+    larger volume of data.</li> <li><strong>Gnip</strong> - Real-time and
+    historical Twitter data available for businesses looking to build on
+    platform.</li> <li><strong>Publisher Platform</strong> - The embeddable side
+    of the platform with buttons, badges, and widgets.</li>
+    <li><strong>Advertising</strong> - The APIs the allow partners to create
+    custom tools for managing Twitter Ad campaigns.</li> <li><strong>Twitter
+    Kit</strong> - An IOS and Android SDK for displaying Tweets, authorizing
+    users, and working with Twitter API.</li> </ul> <p>Twitter's platform and
+    community has had its challenges, and has often been painted as hostile
+    towards its community, but contineus to be an exteremely valuable platform
+    for partners, as well as the public developer community. It provides
+    probably one of the best examples of doing APIs out there, with plenty of
+    lessons in how to do APIs correctly, as well as some bad examples you may
+    not want to follow when evolving yours.</p>
+  link-1-label: Twitter Platform
+  link-1-url: 'https://dev.twitter.com/'
+  link-2-label: ''
+  link-2-url: ''
+  image-1: >-
+    https://s3.amazonaws.com/kinlane-productions/twitter/lessons/the-twitter-platform.png
+  image-2: ''
+  video: ''
+  audio: ''
+  issue: 'https://github.com/api-evangelist-api-consumer-lessons/twitter/issues/2'
+- slug: the-twitter-rest-api
+  title: The Twitter REST API
+  description: >-
+    <p>The Twitter REST APIs provides programmatic access which allows you to
+    read and write Twitter data, content, and media to the platform. Allowing
+    anyone to programmatically publish a new Tweet, read users profile and
+    follower data, and much, much more. This lesson focuses on the Twitter REST
+    API, hoping to help average users understand what the API does, and how they
+    can possibly use it to manage their own personal and professional digital
+    presence.</p><p>The Twitter REST API has many flaws, but it is still one of
+    the best examples we have for doing APIs at scale, with millions of users,
+    developers, and many different types of useful integrations. The Twitter API
+    is a public API, which puts it into an unique category as a social API,
+    while still leveraging OAuth to still give users control over their data,
+    while also allowing 3rd party developers to build applications.</p>
+  link-1-label: Twitter REST API
+  link-1-url: 'https://dev.twitter.com/rest/public'
+  link-2-label: ''
+  link-2-url: ''
+  image-1: >-
+    https://s3.amazonaws.com/kinlane-productions/twitter/lessons/twitter-rest-api.png
+  image-2: ''
+  video: ''
+  audio: ''
+  issue: 'https://github.com/api-evangelist-api-consumer-lessons/twitter/issues/3'
+- slug: authentication-with-oauth
+  title: Authentication with Oauth
+  description: >-
+    <p>The Twitter REST API uses OAuth to secure who can access data, which
+    allows any approved application to obtain an access token by redirecting a
+    user to Twitter and having them authorize the application. OAuth is a
+    standard employed by all leading social media APIs like Facebook, and
+    Instgram. OAuth is designed to broker 3rd party access to any users Twitter
+    account in a way that complies with platform terms of use, that gives each
+    Twitter users control over the access.</p><p>OAuth can be intimidating to
+    use for some developers, but there are many services and tools that help
+    navigate the OAuth dance, and obtain a token. Twitter even provides you with
+    an explorer, and tooling for generating an OAuth token, helping expedite
+    access to data via the API. Once you have a token, it is pretty trivial to
+    pass along as a header with each API call, if you are a programmer. If you
+    aren't a programmer, I recommend sticking with the tools and services that
+    are available to guide you along the your way--no coding necessary.</p>
+  link-1-label: Twitter OAuth
+  link-1-url: 'https://dev.twitter.com/oauth'
+  link-2-label: ''
+  link-2-url: ''
+  image-1: >-
+    https://s3.amazonaws.com/kinlane-productions/twitter/lessons/twitter-oauth.png
+  image-2: ''
+  video: ''
+  audio: ''
+  issue: 'https://github.com/api-evangelist-api-consumer-lessons/twitter/issues/4'
+- slug: your-twitter-applications
+  title: Your Twitter Applications
+  description: >-
+    <p>When you OAuth with a 3rd party application as a Twitter user, each
+    application is registered under <a
+    href="https://twitter.com/settings/applications">your Twitter settings</a>.
+    When you are a developer building an application, you need to register your
+    application as part of <a
+    href="https://twitter.com/settings/applications">your Twitter developer
+    account</a> -- this is the application that will show up for each Twitter
+    user that ends up using your application.</p><p>TWitter applications are
+    about declaring each application of a Twitter users data, while provides a
+    way for Twitter to monitor and regulate which applications have access to
+    data, helping protect platform and end-user interests. Applications exist,
+    even if a web, mobile, or device application does not. Twitter users should
+    regularly audit the applications that have access to their data, and Twitter
+    API developers should regularly audit their applications, carefully managing
+    the keys to accessing the Twitter API.<p>Each application has basics like a
+    title, description, and image. It also possesses an API key and secret,
+    which possess a specificate access level. As the name mentions, these are
+    the keys for any developer to access the API, and will be part of each API
+    request. Each application has a callback URL which Twitter will be redirect
+    users back to an application, completing the loop, as well as other settings
+    and configuration necessary for managing Twitter API authentication and data
+    access.</p>
+  link-1-label: 3rd Party Applications
+  link-1-url: 'https://twitter.com/settings/applications'
+  link-2-label: Your Applications
+  link-2-url: 'https://apps.twitter.com/'
+  image-1: >-
+    https://s3.amazonaws.com/kinlane-productions/twitter/lessons/twitter-applications-1.png
+  image-2: ''
+  video: ''
+  audio: ''
+  issue: 'https://github.com/api-evangelist-api-consumer-lessons/twitter/issues/5'
+- slug: twitter-search-api-pahts
+  title: Twitter Search API Paths
+  description: >-
+    <p>The Twitter Search API is the primary API path which developers should
+    beusing to discover data on the Twitter API. The Twitter Search API
+    searchesagainst a sampling of recent Tweets published in the past 7 days,
+    making itthe place to tune into the latest convesation occurring on
+    Twitter.</p><p>There are three search API paths
+    available:</p><ul><li><strong>GET saved_searches/list</strong> - Returns the
+    authenticateduser’s saved search queries.</li><li><strong>GET
+    saved_searches/show/:id</strong> - Retrieve the informationfor the saved
+    search represented by the given id. The authenticating usermust be the owner
+    of saved search ID being requested.</li><li><strong>GET
+    search/tweets</strong> - Returns a collection of relevantTweets matching a
+    specified query.</li></ul><p>The Twitter API search is no different that a
+    regular website URL. ATwitter search like
+    thishttps://api.twitter.com/1.1/search/tweets.json?q=f&result_type=popular
+    justreturn JSON instead of HTML, and requires each developer to use OAuth
+    toauthenticate each API call--keeping things secure. Instead of a humans
+    searching for Tweets in theirbrowser using the Twitter website or mobile
+    application, an API providesaccess to the same data for use in any
+    application.</p>
+  link-1-label: Twitter Search API
+  link-1-url: 'https://dev.twitter.com/rest/public/search'
+  link-2-label: ''
+  link-2-url: ''
+  image-1: >-
+    https://s3.amazonaws.com/kinlane-productions/twitter/lessons/twitter-search-api.png
+  image-2: ''
+  video: ''
+  audio: ''
+  issue: 'https://github.com/api-evangelist-api-consumer-lessons/twitter/issues/6'
+- slug: twitter-user-api-paths
+  title: Twitter User API Paths
+  description: >-
+    <p>After search, accessing details about each Twitter user can be done
+    programmatically using the Twitter API. The Twitter Users APIs gives access
+    to user discovery and management for use in any application. Providing
+    access to each Twitter users data, as well as the beginnings of what makes
+    Twitter a social network.</p> <p>There are seven user API paths
+    available:</p> <ul> <li><strong>GET users/lookup</strong></strong> - Returns
+    fully-hydrated user objects for up to 100 users per request, as specified by
+    comma-separated values passed to the user_id and/or screen_name
+    parameters.</li> <li><strong>GET users/profile_banner</strong> - Returns a
+    map of the available size variations of the specified user’s profile banner.
+    If the user has not uploaded a profile banner, a HTTP 404 will be served
+    instead.</li> <li><strong>GET users/search</strong> - Provides a simple,
+    relevance-based search interface to public user accounts on Twitter. Try
+    querying by topical interest, full name, company name, location, or other
+    criteria.</li> <li><strong>GET users/show</strong> - Returns a variety of
+    information about the user specified by the required user_id or screen_name
+    parameter. The author’s most recent Tweet will be returned inline when
+    possible.</li> <li><strong>GET users/suggestions</strong> - Access to
+    Twitter’s suggested user list. This returns the list of suggested user
+    categories.</li> <li><strong>GET users/suggestions/:slug</strong> - Access
+    the users in a given category of the Twitter suggested user list.</li>
+    <li><strong>GET users/suggestions/:slug/members</strong> - Access the users
+    in a given category of the Twitter suggested user list and return their most
+    recent status if they are not a protected user.</li> </ul> <p>While the API
+    doesn't provide access to the entire profile of a Twitter user, it does
+    provide programmatic access to most of the Twitter functionality the
+    platform would like to see in external applications. Many of the limitations
+    you will see with the Twitter User APIs are meant to protect privacy, and
+    limit 3rd party developers harvesting of data about users.</p>
+  link-1-label: ''
+  link-1-url: ''
+  link-2-label: ''
+  link-2-url: ''
+  image-1: >-
+    https://s3.amazonaws.com/kinlane-productions/twitter/lessons/twitter-users-api.png
+  image-2: ''
+  video: ''
+  audio: ''
+  issue: 'https://github.com/api-evangelist-api-consumer-lessons/twitter/issues/7'
+- slug: twitter-follower-and-friends-api
+  title: Twitter Followers & Friends API Paths
+  description: >-
+    <p>Beyond managing individual users you can also manage the followers and
+    friends for each Twitter user, allowing for the programmatic managmeent of
+    the releationships that go on between users. The followers and friend
+    features emulate what is going on via the regular Twitter web and mobile
+    applications.</p> <p>There are nine user API paths available:</p> <ul>
+    <li><strong>GET followers/ids</strong> - Returns a cursored collection of
+    user IDs for every user following the specified user.</li> <li><strong>GET
+    followers/list</strong> - Returns a cursored collection of user objects for
+    users following the specified user.</li> <li><strong>GET
+    friends/ids</strong> - Returns a cursored collection of user IDs for every
+    user the specified user is following (otherwise known as their
+    “friends”).</li> <li><strong>GET friends/list</strong> - Returns a cursored
+    collection of user objects for every user the specified user is following
+    (otherwise known as their “friends”).</li> <li><strong>GET
+    friendships/incoming</strong> - Returns a collection of numeric IDs for
+    every user who has a pending request to follow the authenticating user.</li>
+    <li><strong>GET friendships/lookup</strong> - Returns the relationships of
+    the authenticating user to the comma-separated list of up to 100
+    screen_names or user_ids provided.</li> <li><strong>GET
+    friendships/no_retweets/ids</strong> - Returns a collection of user_ids that
+    the currently authenticated user does not want to receive retweets
+    from.</li> <li><strong>GET friendships/outgoing</strong> - Returns a
+    collection of numeric IDs for every protected user for whom the
+    authenticating user has a pending follow request.</li> <li><strong>GET
+    friendships/show</strong> - Returns detailed information about the
+    relationship between two arbitrary users.</li> </ul> <p>These features can
+    be applied as functionality in a web or mobile application, or can be used
+    to automate the social layers of data mining, social media marketing, and
+    other common uses of the Twitter API--connecting the dots between users, as
+    well as expanding the graph.</p>
+  link-1-label: ''
+  link-1-url: ''
+  link-2-label: ''
+  link-2-url: ''
+  image-1: >-
+    https://s3.amazonaws.com/kinlane-productions/twitter/lessons/twitter-friends-api.png
+  image-2: ''
+  video: ''
+  audio: ''
+  issue: 'https://github.com/api-evangelist-api-consumer-lessons/twitter/issues/8'
+- slug: twitter-sttuses-api-paths
+  title: Twitter Statuses API Paths
+  description: >-
+    <p>This is the part of the Twitter API where we can start accessing and
+    playing with Tweets. The Twitter Statuses API paths provide access to all
+    the dimensions of a Tweets, allowing for automation and embedding of Tweet
+    details for any public Twitter user--something that you quickly realize is
+    much more verbose than what you see through the web or mobile interface,
+    giving a look at how much Twitter tracks.</p> <p>There are nine user API
+    paths available:</p> <ul> <li><strong>GET statuses/home_timeline</strong> -
+    Returns a collection of the most recent Tweets and retweets posted by the
+    authenticating user and the users they follow. </li> <li><strong>GET
+    statuses/lookup</strong> - Returns fully-hydrated Tweet objects for up to
+    100 Tweets per request, as specified by comma-separated values passed to the
+    id parameter.</li> <li><strong>GET statuses/mentions_timeline</strong> -
+    Returns the 20 most recent mentions (Tweets containing a users’s
+    @screen_name) for the authenticating user.</li> <li><strong>GET
+    statuses/oembed</strong> - Returns a single Tweet, specified by either a
+    Tweet web URL or the Tweet ID, in an oEmbed-compatible format.</li>
+    <li><strong>GET statuses/retweeters/ids</strong> - Returns a collection of
+    up to 100 user IDs belonging to users who have retweeted the Tweet specified
+    by the id parameter.</li> <li><strong>GET statuses/retweets/:id</strong> -
+    Returns a collection of the 100 most recent retweets of the Tweet specified
+    by the id parameter.</li> <li><strong>GET statuses/retweets_of_me</strong> -
+    Returns the most recent Tweets authored by the authenticating user that have
+    been retweeted by others.</li> <li><strong>GET statuses/show/:id</strong> -
+    Returns a single Tweet, specified by the id parameter. The Tweet’s author
+    will also be embedded within the Tweet.</li> <li><strong>GET
+    statuses/user_timeline</strong> - Returns a collection of the most recent
+    Tweets posted by the user indicated by the screen_name or user_id
+    parameters.</li> </ul> <p>If you are data mining, this is probably the
+    portion of the API you probably want to be playing with. If you are
+    developing a bot, or looking at getting the data, content, and media fom
+    across one or many Twitter users the statuses will give you what you need.
+    While there are limitations on these APIs, with the right amount of effort
+    you can get at a lot of information through these API paths.</p>
+  link-1-label: ''
+  link-1-url: ''
+  link-2-label: ''
+  link-2-url: ''
+  image-1: >-
+    https://s3.amazonaws.com/kinlane-productions/twitter/lessons/twitter-statuses-api.png
+  image-2: ''
+  video: ''
+  audio: ''
+  issue: 'https://github.com/api-evangelist-api-consumer-lessons/twitter/issues/9'
+- slug: additional-twitter-api-paths
+  title: Additional Twitter APIs Paths
+  description: >-
+    <p>These are the most frequently use Twitter REST API paths--at least in my
+    experience. There are other paths for managing direct messages, lists,
+    trends, and other elements present in the web and mobile application. I
+    recommend spending time in the Twitter API getting to know paths using the
+    documentation, and playing with using the API explorer, before you ever
+    consider learning to program.</p><p>In addition to the additional REST APIs
+    available, there are other streaming APIs, advertising APIs, and webhooks.
+    These APIs give you access to additional Twitter services, and allow for the
+    scaling of applications on the platform, services for automating API access,
+    responding to events, and pushing data to other websites and applications
+    with embeddable solutions.</p>
+  link-1-label: ''
+  link-1-url: ''
+  link-2-label: ''
+  link-2-url: ''
+  image-1: >-
+    https://s3.amazonaws.com/kinlane-productions/twitter/lessons/twitter-lists-api.png
+  image-2: ''
+  video: ''
+  audio: ''
+  issue: 'https://github.com/api-evangelist-api-consumer-lessons/twitter/issues/10'
+- slug: twitter-api-code-libraries
+  title: Twitter API Code Libraries
+  description: >-
+    <p>Twitter provides a wealth of code to get going with any project in a
+    variety of programming languages. Some of the code is developed by Twitter,
+    while others are developed by 3rd party Twitter developers within the
+    community. There is a library for a variety of users, in almost every major
+    programming language known.</p><p>If you have programming skills, this is
+    where you should start. Find you language and platform, and get to work
+    playing around. If you aren't a developer don't worry, there are still
+    plenty of ways that the Twitter API can be used. This is one of the benefits
+    of being API aware even if you aren't a developer.</p>
+  link-1-label: Code LIbraries
+  link-1-url: 'https://dev.twitter.com/resources/twitter-libraries'
+  link-2-label: ''
+  link-2-url: ''
+  image-1: >-
+    https://s3.amazonaws.com/kinlane-productions/twitter/lessons/twitter-libraries.png
+  image-2: ''
+  video: ''
+  audio: ''
+  issue: 'https://github.com/api-evangelist-api-consumer-lessons/twitter/issues/11'
+- slug: using-zapier-twitter-zpas
+  title: Using Zapier Twitter Zaps
+  description: >-
+    <p>There are growing number of tools available today that enable
+    non-developers to put APIs to work. These service providers allow APIs to be
+    accessed, and used just like you were building an application, but enable
+    API integration without writing a line of code. Zapier is an API service
+    provider who has been around for a long time, I know and trust their
+    approach to integration, and they provide access to over 750 APIs--including
+    Twitter.</p> <p>Zapier provides a diverse set of recipes for putting APIs to
+    work which are called Zaps. Here are a handful of the Zaps available for
+    common Twitter actions that can be taken via the API:</p> <ul> <li><a
+    href="https://zapier.com/zapbook/zaps/12461/tweet-at-new-twitter-followers/"><strong>Tweet
+    at new Twitter followers</strong></a></li> <li><a
+    href="https://zapier.com/zapbook/zaps/9165/copy-tweets-across-multiple-twitter-accounts/"<strong>Copy
+    tweets across multiple Twitter accounts</strong></a></li> <li><a
+    href="https://zapier.com/zapbook/zaps/1302/post-my-twitter-updates-to-my-facebook-timeline/"><strong>Post
+    your new tweets to a Facebook Page</strong></a></li> <li><a
+    href="https://zapier.com/zapbook/zaps/546/share-new-linkedin-posts-with-content-from-your-tweets/"><strong>Share
+    New LinkedIn Updates with Content From Your Tweets</strong></a></li> <li><a
+    href="https://zapier.com/zapbook/zaps/135/save-twitter-mentions-to-a-google-sheets-spreadsheet/"><strong>Save
+    Twitter mentions to a Google Sheets spreadsheet</strong></a></li> <li><a
+    href="https://zapier.com/zapbook/zaps/233/publish-your-rss-feed-to-twitter/"><strong>Publish
+    Your RSS Feed to Twitter</strong></a></li> <li><a
+    href="https://zapier.com/zapbook/zaps/199/send-tweets-your-teams-slack-channel/"><strong>Share
+    new Tweets from a Twitter list in Slack</strong></a></li> <li><a
+    href="https://zapier.com/zapbook/zaps/4029/add-twitter-users-who-mention-a-specific-term-to-a-custom-list/"><strong>Build
+    a Twitter list from Twitter search results</strong></a></li> </ul> <p>There
+    are 100 Twitter related Zaps available in the Zapier the Zapbook. These are
+    some of the most relevant examples of using the Twitter, and other APIs. I
+    encourage you to look through the Zapbook and better understand what is
+    possible. I am a programmer and I spend time in there learning what is
+    possible from the thousands of actions you can take across over 750 APIs. It
+    is the quickest way to put an API to use, and is quicker than developing any
+    web or mobile application.</p>
+  link-1-label: Zapier
+  link-1-url: 'https://zapier.com'
+  link-2-label: Zapier ZapBook Twitter
+  link-2-url: 'https://zapier.com/zapbook/twitter/'
+  image-1: 'https://s3.amazonaws.com/kinlane-productions/twitter/lessons/zapier-zaps.png'
+  image-2: ''
+  video: ''
+  audio: ''
+  issue: 'https://github.com/api-evangelist-api-consumer-lessons/twitter/issues/12'
+- slug: participating-in-the-twitter-community
+  title: Participating In The Twitter Community
+  description: >-
+    <p>Twitter has a vibrant developer community with dedicated advocates. I
+    recommend heading over to the Twitter Community, while also <a
+    href="https://blog.twitter.com/developer">tuning into their blogs</a>, and
+    the two Twitter accounts for the platform: @twitterapi, and @twitterdev.
+    There are endless paths for learning about what is possible via the Twitter
+    API. I still learn new things from paying attention to their API community,
+    and surprised at the ways in which Twitter still invests in their developer
+    platform, and continues to stumble.</p><p>When it comes to the free access
+    to the Twitter public API you are limited to public support channels--so
+    don't expect direct attention, and be willing to learn from the forum, and
+    from other resources from Twitter. If you are going to be using the Twitter
+    API as part a business project you may want to look at their Gnip offering,
+    which started as an external player in the community, but now is an official
+    part of Twitter--you can get higher levels of support there, along with the
+    paid Twitter API products they have made available.</p>
+  link-1-label: Twitter Community
+  link-1-url: 'https://twittercommunity.com/'
+  link-2-label: ''
+  link-2-url: ''
+  image-1: >-
+    https://s3.amazonaws.com/kinlane-productions/twitter/lessons/twitter-community.png
+  image-2: ''
+  video: ''
+  audio: ''
+  issue: 'https://github.com/api-evangelist-api-consumer-lessons/twitter/issues/13'
+- slug: twitter-has-come-along-way
+  title: Twitter Has Come A Long Way
+  description: >-
+    <p>On September 20, 2006 Twitter introduced the Twitter API to the world.
+    Much of what we know as Twitter today was developed by the API community,
+    from the mobile applications, to many of the embeddable goodies we publish
+    to websites. Twitter's popularity came from the passion of Twitter power
+    users, but much of Twitter's growth came from the presence of a publicly
+    available API.</p><p>There are many uses for the Twitter API. As
+    demonstrated by the Zapier recipes for integrations, that you can put the
+    Twitter API to use in every business use cases, and even to just to make a
+    personal social media presence a little louder. There are many things about
+    the Twitter API that frustrates me, but after a decade of use I still find a
+    great deal of inspiration exploring the API, and seeing what is being built
+    by the community.</p><p>APIs mights often seem out of reach to developers,
+    but I think the Twitter API has the most relevance to a wide audience, and
+    provides a wealth of valuable API-driven lessons that can be helpful in
+    business, online storytelling, journalism, and as we've seen in the last
+    year--running the country, and disrupting democracy. Take the time to
+    explore the Twitter API, and find side projects that will keep you playing,
+    because you never know what you'll find in there.</p>
+  link-1-label: Twitter Platform
+  link-1-url: 'https://dev.twitter.com/'
+  link-2-label: ''
+  link-2-url: ''
+  image-1: >-
+    https://s3.amazonaws.com/kinlane-productions/twitter/lessons/twitter-logo.png
+  image-2: ''
+  video: ''
+  audio: ''
+  issue: 'https://github.com/api-evangelist-api-consumer-lessons/twitter/issues/14'
