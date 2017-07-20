@@ -286,7 +286,8 @@
   link-1-url: ''
   link-2-label: ''
   link-2-url: ''
-  image-1: 'http://kinlane-productions.s3.amazonaws.com/facebook/Facebook-Developer.png'
+  image-1: >-
+    https://s3.amazonaws.com/kinlane-productions/facebook/facebook-developers-history.png
   image-2: ''
   video: ''
   audio: ''
@@ -510,7 +511,8 @@
   link-1-url: ''
   link-2-label: ''
   link-2-url: ''
-  image-1: ''
+  image-1: >-
+    https://s3.amazonaws.com/kinlane-productions/google-maps/googlemaps_feb8_2005-launchsite-png.jpg
   image-2: ''
   video: ''
   audio: ''
@@ -655,7 +657,8 @@
   link-1-url: ''
   link-2-label: ''
   link-2-url: ''
-  image-1: 'http://kinlane-productions.s3.amazonaws.com/foursquare-icon-large.jpg'
+  image-1: >-
+    https://s3.amazonaws.com/kinlane-productions/foursquare/foursquare-screenshot.jpg
   image-2: ''
   video: ''
   audio: ''
