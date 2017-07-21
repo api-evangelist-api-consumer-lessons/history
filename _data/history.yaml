@@ -1,4 +1,4 @@
-- slug: ''
+- slug: the-history-of-apis
   title: The History of APIs
   description: >-
     <p>History is everything.  Understanding where we have come from is critical
@@ -46,7 +46,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: commerce
   title: Commerce
   description: >-
     <p>As soon as the first .COM bubble burst, platforms were looking for
@@ -71,7 +71,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: salesforce
   title: SalesForce
   description: >-
     <p>February 7th, 2000 Salesforce.com officially launched at the IDG Demo
@@ -107,7 +107,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: ebay
   title: Ebay
   description: >-
     On November 20, 2000, eBay launched the eBay Application Program Interface
@@ -118,23 +118,20 @@
 
     <p>As eBay stated:</p>
 
-    <p>"Our new API has tremendous potential to revolutionize the way people do
-    business on eBay and increase the amount of business transacted on the site,
-    by openly providing the tools that developers need to create applications
-    based on eBay technology, we believe eBay will eventually be tightly woven
-    into many existing sites as well as future e-commerce ventures."</p>
+    <blockquote>"Our new API has tremendous potential to revolutionize the way
+    people do business on eBay and increase the amount of business transacted on
+    the site, by openly providing the tools that developers need to create
+    applications based on eBay technology, we believe eBay will eventually be
+    tightly woven into many existing sites as well as future e-commerce
+    ventures."</blockquote>
 
     The launch of the eBay API was a response to the growing number of
     applications that were already relying on its site either legitimately or
-    illegitimately.</p>
-
-    <p>The API aimed to standardize how applications integrated with eBay, and
-    make it easier for partners and developers to build a business around the
-    eBay ecosystem.</p>
-
-    <p>eBay is considered the leading pioneer in the current era of web-based
-    APIs and web services and still leads with one of the most successful
-    developer ecosystem today.</p>
+    illegitimately. The API aimed to standardize how applications integrated
+    with eBay, and make it easier for partners and developers to build a
+    business around the eBay ecosystem. eBay is considered the leading pioneer
+    in the current era of web-based APIs and web services and still leads with
+    one of the most successful developer ecosystem today.</p>
   link-1-label: ''
   link-1-url: ''
   link-2-label: ''
@@ -145,7 +142,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: social
   title: Social
   description: >-
     <p>As API driven commerce platforms were still getting their footing, and
@@ -173,7 +170,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: delicious
   title: del.icio.us
   description: >-
     <p>del.icio.us is a social bookmarking service for storing, sharing and
@@ -184,8 +181,6 @@
     to easily tag their web bookmarks in a meaningful way, but also established
     a kind of folksonomy across all users of the platform. Which proved to be a
     pretty powerful way for cataloging and sharing web links.</p>
-
-    <p>Photo Credit</p>
 
     <p>The innovative tagging methodology used by del.icio.us allowed you to
     pull a list of your tags, or public web bookmarks by using the URL
@@ -223,7 +218,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: flickr
   title: Flickr
   description: >-
     <p>In February 2004 the popular photo sharing site Flickr launched. Six
@@ -260,7 +255,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: facebook
   title: Facebook
   description: >-
     <p>On August 15th 2006, Facebook launched its long-awaited development
@@ -292,7 +287,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: twitter
   title: Twitter
   description: >-
     <p>On September 20, 2006 Twitter introduced the Twitter API to the
@@ -331,7 +326,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: business-and-marketing
   title: Business and Marketing
   description: >-
     <p>As APIs evolved from commerce, through social, it was clear that the
@@ -354,7 +349,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: programmableweb
   title: ProgrammableWeb
   description: >-
     <p>While writing about the history of APIs, it is easy to be so focused on
@@ -368,16 +363,13 @@
     news, information and resources for developing applications using the Web
     2.0 APIs.</p>
 
-    <p>I started this site because I couldn't find what I was looking for: a
-    technology focused starting point for web platform development. (For a bit
-    more see my initial post.) Although no guarantees, the last time I started a
-    reference site it somehow became Google's highest rated link on the topic.
-    Given that this site will be a collaborative effort with community input as
-    well, this can be what we make it.
-
-    <p>I hope you find the site useful.</p>
-
-    <p>John Musser - Seattle, August 2005</p>
+    <blockquote>I started this site because I couldn't find what I was looking
+    for: a technology focused starting point for web platform development. (For
+    a bit more see my initial post.) Although no guarantees, the last time I
+    started a reference site it somehow became Google's highest rated link on
+    the topic. Given that this site will be a collaborative effort with
+    community input as well, this can be what we make it.<br />I hope you find
+    the site useful.<br />John Musser - Seattle, August 2005</blockquote>
 
     <p>John’s original blog post on why he started ProgrammableWeb, says it all:
     Why? Because going From Web Page to Web Platform is a big deal.</p>
@@ -416,7 +408,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: mashery
   title: Mashery
   description: >-
     <p>In November 2006, API the first API service provider Mashery came out of
@@ -430,8 +422,6 @@
     Services. It was clear that the world of web APIs was getting real, and
     there was opportunity for companies to offer API management as a
     service.</p>
-
-    <p>Photo Credit</p>
 
     <p>While there were tools for deploying APIs, there was no standard approach
     to managing your API deployment. Mashery was the first to bring a standard
@@ -456,7 +446,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: mapping
   title: Mapping
   description: >-
     <p>One early API pioneer saw the need for provider web developers with a
@@ -480,7 +470,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: google-maps
   title: Google Maps
   description: >-
     <p>On June 29th, 2006, Google launched Google Maps API allowing developers
@@ -518,7 +508,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: cloud-computing
   title: Cloud Computing
   description: >-
     <p>As APIs were generating social buzz across the Internet, Amazon saw the
@@ -544,7 +534,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: amazon-s3
   title: Amazon S3
   description: >-
     <p>In March, 2006 Amazon launched a new web service, something completely
@@ -581,7 +571,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: amazon-ec2
   title: Amazon EC2
   description: >-
     <p>In August 2006, shortly after Amazon launched its new cloud storage
@@ -610,7 +600,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: a-mobile-world
   title: A Mobile World
   description: >-
     <p>With the introduction of iPhone and Android smart phones, APIs had
@@ -634,7 +624,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: foursquare
   title: Foursquare
   description: >-
     <p>In March 2009 Foursquare launched at the SXSW interactive festival in
@@ -666,38 +656,28 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: instagram
   title: Instagram
   description: >-
     <p>On October 6, 2010 Instagram launched its photo-sharing iPhone
     application.</p>
 
-    <p>Less than three months later, it had one million users.</p>
-
-    <p>Kevin Systrom the founder of Instagram focused on delivering a powerful,
-    but simple iPhone app that solved common problems with the quality of mobile
-    photos and users' frustrations with sharing.</p>
-
-    <p>Immediately many users complained about the lack of central Instagram web
-    site or an API, with Instragram remaining firm on focusing its energy on the
-    core iPhone application.</p>
+    <p>Less than three months later, it had one million users. Kevin Systrom the
+    founder of Instagram focused on delivering a powerful, but simple iPhone app
+    that solved common problems with the quality of mobile photos and users'
+    frustrations with sharing. Immediately many users complained about the lack
+    of central Instagram web site or an API, with Instragram remaining firm on
+    focusing its energy on the core iPhone application.</p>
 
     <p>In December a developer name Mislav Marohni? took it upon himself to
     reverse engineer how the iPhone app worked, and built his own unofficial
-    Instagram API.</p>
-
-    <p>By January Instagram shut down the rogue API and announced it was
-    building one of its own.</p>
-
-    <p>Then in February of 2011, Instagram released the official API for the
-    photo platform.</p>
-
-    <p>Within days many photo applications, photo -sharing sites, and mashups
-    built around the API started showing up.</p>
-
-    <p>Instagram became a viral iPhone app sensation, but quickly needed an API
-    to realize its full potential.  Asserting the platforms place in history as
-    one of the defining players in the mobile period of APis.</p>
+    Instagram API. By January Instagram shut down the rogue API and announced it
+    was building one of its own. Then in February of 2011, Instagram released
+    the official API for the photo platform. Within days many photo
+    applications, photo -sharing sites, and mashups built around the API started
+    showing up. Instagram became a viral iPhone app sensation, but quickly
+    needed an API to realize its full potential.  Asserting the platforms place
+    in history as one of the defining players in the mobile period of APis.</p>
   link-1-label: ''
   link-1-url: ''
   link-2-label: ''
@@ -708,7 +688,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: twilio
   title: Twilio
   description: >-
     <p>In 2007, a new API-as-a-product platform launched, called Twilio, which
@@ -722,8 +702,6 @@
     blocks are essential for a healthy API driven platform, set the bar for on
     the ground evangelism at events and hackathons, and worked hard to showcase,
     support and invest it its developer ecosystem.</p>
-
-    <p>Photo Credit</p>
 
     <p>Alongside Foursquare and Instagram, Twilio has come to define mobile
     application development, helping push APIs into the mainstream. While
@@ -746,8 +724,8 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
-  title: Understanding History
+- slug: understanding-our-api-history
+  title: Understanding Our API History
   description: >-
     <p>Understanding history is critical to understanding where we are going.
     Calling this document the "history" of web APIs seems kind of silly. We are
