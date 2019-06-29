@@ -9,7 +9,7 @@
 
 /* Reset */
 
-	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
 		margin: 0;
 		padding: 0;
 		border: 0;
@@ -39,10 +39,10 @@
 		content: none;
 	}
 
-	table {
+	/**table {
 		border-collapse: collapse;
 		border-spacing: 0;
-	}
+	}**/
 
 	body {
 		-webkit-text-size-adjust: none;
@@ -2070,7 +2070,7 @@
 /* Type */
 
 	body, input, select, textarea {
-		color: #7f888f;
+		color: #000;
 		font-family: "Open Sans", sans-serif;
 		font-size: 13pt;
 		font-weight: 400;
@@ -2108,7 +2108,7 @@
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		/*border-bottom: dotted 1px;*/
 		color: #000;
-		text-decoration: none;
+		/*text-decoration: none;*/
 	}
 
 		a:hover {
@@ -2121,7 +2121,7 @@
 			}
 
 	strong, b {
-		color: #3d4449;
+		color: #000;
 		font-weight: 600;
 	}
 
@@ -2134,7 +2134,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #3d4449;
+		color: #000;
 		font-family: "Roboto Slab", serif;
 		font-weight: 700;
 		line-height: 1.5;
@@ -2299,7 +2299,7 @@
 	}
 
 	label {
-		color: #3d4449;
+		color: #000;
 		display: block;
 		font-size: 0.9em;
 		font-weight: 600;
@@ -2417,7 +2417,7 @@
 		input[type="checkbox"] + label,
 		input[type="radio"] + label {
 			text-decoration: none;
-			color: #7f888f;
+			color: #000;
 			cursor: pointer;
 			display: inline-block;
 			font-size: 1em;
@@ -2455,8 +2455,8 @@
 
 		input[type="checkbox"]:checked + label:before,
 		input[type="radio"]:checked + label:before {
-			background: #3d4449;
-			border-color: #3d4449;
+			background: #000;
+			border-color: #000;
 			color: #ffffff;
 			content: '\f00c';
 		}
@@ -2867,7 +2867,7 @@
 			margin-left: 2em;
 		}
 
-/* Table */
+/* Table
 
 	.table-wrapper {
 		-webkit-overflow-scrolling: touch;
@@ -2894,7 +2894,7 @@
 		}
 
 		table th {
-			color: #3d4449;
+			color: #000;
 			font-size: 0.9em;
 			font-weight: 600;
 			padding: 0 0.75em 0.75em 0.75em;
@@ -2934,7 +2934,7 @@
 			table.alt tfoot {
 				border-top: 0;
 			}
-
+*/
 /* Button */
 
 	input[type="submit"],
@@ -3130,13 +3130,45 @@
 			}
 
 			.features article .icon {
+				-moz-flex-grow: 0;
+				-webkit-flex-grow: 0;
+				-ms-flex-grow: 0;
+				flex-grow: 0;
+				-moz-flex-shrink: 0;
+				-webkit-flex-shrink: 0;
+				-ms-flex-shrink: 0;
+				flex-shrink: 0;
 				display: block;
-				height: 3em;
-				line-height: 2em;
-				margin: 0 5px 0 0;
+				height: 10em;
+				line-height: 10em;
+				margin: 0 2em 0 0;
 				text-align: center;
-				width: 3em;
+				width: 10em;
 			}
+
+				.features article .icon:before {
+					color: #000;
+					font-size: 2.75rem;
+					position: relative;
+					top: 0.05em;
+				}
+
+				.features article .icon:after {
+					-moz-transform: rotate(45deg);
+					-webkit-transform: rotate(45deg);
+					-ms-transform: rotate(45deg);
+					transform: rotate(45deg);
+					border-radius: 0.25rem;
+					border: solid 2px rgba(210, 215, 217, 0.75);
+					content: '';
+					display: block;
+					height: 7em;
+					left: 50%;
+					margin: -3.5em 0 0 -3.5em;
+					position: absolute;
+					top: 50%;
+					width: 7em;
+				}
 
 			.features article .content {
 				-moz-flex-grow: 1;
@@ -3147,7 +3179,6 @@
 				-webkit-flex-shrink: 1;
 				-ms-flex-shrink: 1;
 				flex-shrink: 1;
-				vertical-align: top;
 				width: 100%;
 			}
 
@@ -3524,7 +3555,7 @@
 			-webkit-transform: scaleX(-1);
 			-ms-transform: scaleX(-1);
 			transform: scaleX(-1);
-			color: #7f888f;
+			color: #000;
 			content: '\f002';
 			cursor: default;
 			display: block;
@@ -3734,7 +3765,7 @@
 			}
 
 				#sidebar .toggle:before {
-					color: #7f888f;
+					color: #000;
 					margin-left: -0.0625em;
 					margin-top: -0.25em;
 					font-size: 1.1rem;
@@ -3936,7 +3967,7 @@
 		-webkit-user-select: none;
 		-ms-user-select: none;
 		user-select: none;
-		color: #3d4449;
+		color: #000;
 		font-family: "Roboto Slab", serif;
 		font-family: 400;
 		letter-spacing: 0.075em;
