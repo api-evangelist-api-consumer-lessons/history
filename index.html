@@ -45,22 +45,6 @@ title: History of APIs
   </section>
 {% endfor %}
 
-<!-- Partners -->
-<section>
-	<div class="features">
-	  {% assign partners = site.data.partners.index | sort: 'view_sort' %}
-	  {% for partner in partners %}
-	    {% if partner.type == 'Sponsor' %}
-	    <article>
-	      <div class="content">
-	        <p align="center"><a href="{{ partner.url }}" target="_blank"><img src="{{ partner.image }}" width="75%" style="padding: 15px; border: 1px solid #000;" /></a></p>
-	      </div>
-	    </article>
-	    {% endif %}
-	  {% endfor %}
-	</div>
-</section>
-
 <table width="100%">
   <tr>
     <td align="left" style="background-color:#FFF;"><a href="http://101.consume.apievangelist.com" class="button"><< Previous</a></td>

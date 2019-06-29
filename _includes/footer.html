@@ -1,18 +1,24 @@
 <footer>
+
+  <!-- Partners -->
+  <section>
+  	<div class="features">
+  	  {% assign partners = site.data.partners.index | sort: 'view_sort' %}
+  	  {% for partner in partners %}
+  	    {% if partner.type == 'Sponsor' %}
+  	    <article>
+  	      <div class="content">
+  	        <p align="center"><a href="{{ partner.url }}" target="_blank"><img src="{{ partner.image }}" width="75%" style="padding: 15px; border: 1px solid #000;" /></a></p>
+  	      </div>
+  	    </article>
+  	    {% endif %}
+  	  {% endfor %}
+  	</div>
+  </section>
+
   <p align="center">
-    {% assign partners = site.data.sponsors.index %}
-    {% assign partners = partners | sample %}
-    <a href="{{ partners.url }}" target="_blank">
-      <img src="{{ partners.banner_url }}" width="50%" style="padding-top: 10px;" />
-    </a>
-  </p>
-  <p align="center">
-    all of my work:
+    relevant work:
     <a href="http://apievangelist.com">apievangelist.com</a> |
-    <a href="http://kinlane.com">kinlane.com</a> |
-    <a href="http://api.report">api.report</a> |
-    <a href="http://adopta.agency">adopta.agency</a> |
-    <a href="http://dronerecovery.org">dronerecovery.org</a> |
-    <a href="http://http://algorithmic.rotoscope.work/">algorithmic.rotoscope.work</a>
+    <a href="http://adopta.agency">adopta.agency</a>
   </p>
 </footer>
