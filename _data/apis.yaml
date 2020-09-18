@@ -1,6 +1,6 @@
 name: API Evangelist
 description: These are my APIs for my API industry research, studying over 70 areas along an API life cycle.
-image: http://s3.amazonaws.com/kinlane-productions/api-evangelist/t-shirts/KL_InApiWeTrust-1000.png
+image: http://s3.amazonaws.com/kinlane-productions2/api-evangelist/t-shirts/KL_InApiWeTrust-1000.png
 tags:
   - API
   - Integrations
@@ -33,7 +33,7 @@ apis:
         url: http://apievangelist.com/apis/services/openapi.json
   - name: Partners API
     description: This is my simple API for managing my partners across the sites.
-    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-partner.png
+    image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-partner.png
     humanURL: http://apievangelist.com/
     baseURL: http://apievangelist.com/
     tags:

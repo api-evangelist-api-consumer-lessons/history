@@ -8,7 +8,7 @@
     back again. The  part I added was the ability to save on Github, using an
     entirely client-based solution leveraging the Github API to write JSON, CSV
     and other files to the master repository.
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-csv.png'
+  image: 'https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-csv.png'
   imagewidth: ''
   category: Converter
   brand: API Evangelist
@@ -21,7 +21,7 @@
     viable presence for your API operations. Answer any question that you can,
     and generate a report that you can consider as you are crafting your API
     management road map.
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-tools.png'
+  image: 'https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-tools.png'
   imagewidth: ''
   category: Definition
   brand: API Evangelist
@@ -35,7 +35,7 @@
     supporting platform operations. Just fill out the fields below, and click on
     the "Generate My APIs.json" button to generate the APIs.json.
   image: >-
-    https://s3.amazonaws.com/kinlane-productions/api-commons/api-commons-icon.png
+    https://s3.amazonaws.com/kinlane-productions2/api-commons/api-commons-icon.png
   imagewidth: ''
   category: APIs.json
   brand: API Evangelist
@@ -49,7 +49,7 @@
     something interesting with your OpenAPI Spec. All you need to create is add
     the URL for your OpenAPI Spec, and this will do the rest.
   image: >-
-    https://s3.amazonaws.com/kinlane-productions/api-commons/api-commons-icon.png
+    https://s3.amazonaws.com/kinlane-productions2/api-commons/api-commons-icon.png
   imagewidth: ''
   category: APIs.json
   brand: API Evangelist
@@ -64,7 +64,7 @@
     through each APIs.json, adds a folder to the master branch for this repo,
     and publishes a copy of the APIs.json, and any OpenAPI Specs to the folder.
   image: >-
-    https://s3.amazonaws.com/kinlane-productions/api-commons/api-commons-icon.png
+    https://s3.amazonaws.com/kinlane-productions2/api-commons/api-commons-icon.png
   imagewidth: ''
   category: Subscriptions
   brand: API Evangelist
@@ -79,7 +79,7 @@
     its design. I got to work building one of my micro tools to help me manage
     the process, in a way that can easily be forked and run for any project.
   image: >-
-    https://s3.amazonaws.com/kinlane-productions/api-commons/api-commons-icon.png
+    https://s3.amazonaws.com/kinlane-productions2/api-commons/api-commons-icon.png
   imagewidth: ''
   category: Annotations
   brand: API Evangelist
@@ -95,7 +95,7 @@
     developing an API design guide builder that runs 100% on Github, allowing
     anyone to fork, and use to build their own API Stylebook on top of Arnaud's
     work.
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png'
+  image: 'https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-design.png'
   imagewidth: ''
   category: Design
   brand: API Evangelist
@@ -108,7 +108,7 @@
     website running on Github, using Github Pages. The tools in this toolbox are
     driven by a YAML file in the _data folder for this repository.
   image: >-
-    https://s3.amazonaws.com/kinlane-productions/api-evangelist/openapi-spec/openapi-spec-icon.png
+    https://s3.amazonaws.com/kinlane-productions2/api-evangelist/openapi-spec/openapi-spec-icon.png
   imagewidth: ''
   category: Definition
   brand: API Evangelist
@@ -121,7 +121,7 @@
     and store the results locally in a Github repository. The project is meant
     to run 100% on Github, with no backend. The job to run the kupdate requires
     a valid Github OAuth token run via URL.
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-rss-example.png'
+  image: 'https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-rss-example.png'
   imagewidth: ''
   category: Aggregator
   brand: API Evangelist

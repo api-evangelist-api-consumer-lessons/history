@@ -102,7 +102,7 @@
   link-2-label: ''
   link-2-url: ''
   image-1: >-
-    http://kinlane-productions.s3.amazonaws.com/salesforce/salesforce-original-web-site.png
+    http://kinlane-productions2.s3.amazonaws.com/salesforce/salesforce-original-web-site.png
   image-2: ''
   video: ''
   audio: ''
@@ -137,7 +137,7 @@
   link-2-label: ''
   link-2-url: ''
   image-1: >-
-    http://kinlane-productions.s3.amazonaws.com/ebay/ebay-developer-program-history.png
+    http://kinlane-productions2.s3.amazonaws.com/ebay/ebay-developer-program-history.png
   image-2: ''
   video: ''
   audio: ''
@@ -213,7 +213,7 @@
   link-2-label: ''
   link-2-url: ''
   image-1: >-
-    https://s3.amazonaws.com/kinlane-productions/api-evangelist/delicious/delicious-original-screenshot.jpg
+    https://s3.amazonaws.com/kinlane-productions2/api-evangelist/delicious/delicious-original-screenshot.jpg
   image-2: ''
   video: ''
   audio: ''
@@ -250,7 +250,7 @@
   link-1-url: ''
   link-2-label: ''
   link-2-url: ''
-  image-1: 'http://kinlane-productions.s3.amazonaws.com/flickr/flickr-beta.png'
+  image-1: 'http://kinlane-productions2.s3.amazonaws.com/flickr/flickr-beta.png'
   image-2: ''
   video: ''
   audio: ''
@@ -282,7 +282,7 @@
   link-2-label: ''
   link-2-url: ''
   image-1: >-
-    https://s3.amazonaws.com/kinlane-productions/facebook/facebook-developers-history.png
+    https://s3.amazonaws.com/kinlane-productions2/facebook/facebook-developers-history.png
   image-2: ''
   video: ''
   audio: ''
@@ -321,7 +321,7 @@
   link-2-label: ''
   link-2-url: ''
   image-1: >-
-    http://kinlane-productions.s3.amazonaws.com/twitter/Twitter-Introducing-The-Twitter-API.png
+    http://kinlane-productions2.s3.amazonaws.com/twitter/Twitter-Introducing-The-Twitter-API.png
   image-2: ''
   video: ''
   audio: ''
@@ -403,7 +403,7 @@
   link-2-label: ''
   link-2-url: ''
   image-1: >-
-    https://s3.amazonaws.com/kinlane-productions/api-evangelist/programmableweb/ProgrammableWeb-10-2005.png
+    https://s3.amazonaws.com/kinlane-productions2/api-evangelist/programmableweb/ProgrammableWeb-10-2005.png
   image-2: ''
   video: ''
   audio: ''
@@ -441,7 +441,7 @@
   link-2-label: ''
   link-2-url: ''
   image-1: >-
-    https://s3.amazonaws.com/kinlane-productions/api-evangelist/mashery/history-mashery-api-management.jpg
+    https://s3.amazonaws.com/kinlane-productions2/api-evangelist/mashery/history-mashery-api-management.jpg
   image-2: ''
   video: ''
   audio: ''
@@ -465,7 +465,7 @@
   link-2-label: ''
   link-2-url: ''
   image-1: >-
-    https://s3.amazonaws.com/kinlane-productions/google-maps/google-mapping-javascript-post.png
+    https://s3.amazonaws.com/kinlane-productions2/google-maps/google-mapping-javascript-post.png
   image-2: ''
   video: ''
   audio: ''
@@ -503,7 +503,7 @@
   link-2-label: ''
   link-2-url: ''
   image-1: >-
-    https://s3.amazonaws.com/kinlane-productions/google-maps/googlemaps_feb8_2005-launchsite-png.jpg
+    https://s3.amazonaws.com/kinlane-productions2/google-maps/googlemaps_feb8_2005-launchsite-png.jpg
   image-2: ''
   video: ''
   audio: ''
@@ -566,7 +566,7 @@
   link-2-label: ''
   link-2-url: ''
   image-1: >-
-    https://s3.amazonaws.com/kinlane-productions/amazon/amazon-s3-launch-post.png
+    https://s3.amazonaws.com/kinlane-productions2/amazon/amazon-s3-launch-post.png
   image-2: ''
   video: ''
   audio: ''
@@ -595,7 +595,7 @@
   link-2-label: ''
   link-2-url: ''
   image-1: >-
-    https://s3.amazonaws.com/kinlane-productions/amazon/amazon-ec2-launch-post.png
+    https://s3.amazonaws.com/kinlane-productions2/amazon/amazon-ec2-launch-post.png
   image-2: ''
   video: ''
   audio: ''
@@ -651,7 +651,7 @@
   link-2-label: ''
   link-2-url: ''
   image-1: >-
-    https://s3.amazonaws.com/kinlane-productions/foursquare/foursquare-screenshot.jpg
+    https://s3.amazonaws.com/kinlane-productions2/foursquare/foursquare-screenshot.jpg
   image-2: ''
   video: ''
   audio: ''
@@ -683,7 +683,7 @@
   link-2-label: ''
   link-2-url: ''
   image-1: >-
-    https://s3.amazonaws.com/kinlane-productions/instagram/instagram-dev-launch.png
+    https://s3.amazonaws.com/kinlane-productions2/instagram/instagram-dev-launch.png
   image-2: ''
   video: ''
   audio: ''
@@ -719,7 +719,7 @@
   link-2-label: ''
   link-2-url: ''
   image-1: >-
-    https://s3.amazonaws.com/kinlane-productions/api-evangelist/twilio/twilio-2009-04-13.png
+    https://s3.amazonaws.com/kinlane-productions2/api-evangelist/twilio/twilio-2009-04-13.png
   image-2: ''
   video: ''
   audio: ''

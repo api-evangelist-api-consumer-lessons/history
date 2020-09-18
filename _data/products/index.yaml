@@ -10,7 +10,7 @@
     regular snapshot of my API design research, and publish here as an industry
     guide that people of all skill levels can learn from.
   image: >-
-    https://s3.amazonaws.com/kinlane-productions/whitepapers/design/api-evangelist-api-design-guide-may-2016-cover.png
+    https://s3.amazonaws.com/kinlane-productions2/whitepapers/design/api-evangelist-api-design-guide-may-2016-cover.png
   imagewidth: '250'
   category: API Lifecycle Research
   brand: API Evangelist
@@ -26,7 +26,7 @@
     definitions like OpenAPI, and includes schema, and other standards that are
     being used to define APIs across the spectrum.
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api_evangelist_site/blog/api_definitions_2017_03.png
+    http://kinlane-productions2.s3.amazonaws.com/api_evangelist_site/blog/api_definitions_2017_03.png
   imagewidth: '250'
   category: API Lifecycle Research
   brand: API Evangelist
@@ -43,7 +43,7 @@
     people make sense of what is possible when it comes to deploying APIs in
     2017.
   image: >-
-    https://s3.amazonaws.com/kinlane-productions/whitepapers/deployment/api-evangelist-api-deployment-guide-may-2016-cover.png
+    https://s3.amazonaws.com/kinlane-productions2/whitepapers/deployment/api-evangelist-api-deployment-guide-may-2016-cover.png
   imagewidth: '250'
   category: API Lifecycle Research
   brand: API Evangelist
@@ -59,7 +59,7 @@
     mix of what API service providers are doing, as well as the best practices
     from successful API providers.
   image: >-
-    https://s3.amazonaws.com/kinlane-productions/whitepapers/management/api-evangelist-api-management-guide-may-2016-cover.png
+    https://s3.amazonaws.com/kinlane-productions2/whitepapers/management/api-evangelist-api-management-guide-may-2016-cover.png
   imagewidth: '250'
   category: API Lifecycle Research
   brand: API Evangelist
@@ -74,7 +74,7 @@
     the research I began adding to it every year, resulting in my ongoing
     history of APIs guide.
   image: >-
-    https://s3.amazonaws.com/kinlane-productions/whitepapers/history/api-evangelist-history-of-apis-may-2016-cover.png
+    https://s3.amazonaws.com/kinlane-productions2/whitepapers/history/api-evangelist-history-of-apis-may-2016-cover.png
   imagewidth: '250'
   category: History
   brand: API Evangelist
@@ -90,7 +90,7 @@
     beyond just the screenshots, and actually provide machine readable patterns
     and UI elements thta anyone can put to use.
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/api-evangelist-250-pricing-and-plan-pages.png
+    http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/blog/api-evangelist-250-pricing-and-plan-pages.png
   imagewidth: '250'
   category: Monetization
   brand: API Evangelist

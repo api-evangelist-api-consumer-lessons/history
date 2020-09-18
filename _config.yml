@@ -5,7 +5,7 @@ raw_url: history.apievangelist.com/apis/
 
 tag: History of APIs
 
-logo:         https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-evangelist-logo-lessons.png
+logo:         https://s3.amazonaws.com/kinlane-productions2/api-evangelist/api-evangelist-logo-lessons.png
 logo_width:   80
 logo_bottom_padding: 10
 
@@ -28,5 +28,5 @@ github_branch: master
 # Footer
 footer_title: API Evangelist
 footer_link: http://apievangelist.com
-footer_image_source: https://s3.amazonaws.com/kinlane-productions/footer/empowered-by-you-banner.png
+footer_image_source: https://s3.amazonaws.com/kinlane-productions2/footer/empowered-by-you-banner.png
 footer_image_width: 60

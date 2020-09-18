@@ -8,7 +8,7 @@
     sector to define every aspect of API operations. These definitions are being used
     across every stop along this cycle as a sort of central truth, and often providing
     a contract that defines operations.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-definitions.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-api-definitions.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -21,7 +21,7 @@
   url: http://design.apievangelist.com
   description: A toolkit where I gather all the news, analysis, companies and technology
     when it comes to designing APIs.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-design-fiction.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-api-design-fiction.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -38,7 +38,7 @@
     single place where I could reference when crafting stories on the blog. You can
     find news I've curated, organizations doing interesting things, some of the common
     building blocks I've identified, and open source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-version.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-version.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -53,7 +53,7 @@
     momentum. It is time for it to have its own research area on API Evangelist, allowing
     me to curate news, tools, companies and individuals who are leading in the space
     and start evolving my analysis and storytelling in the area of hypermedia APIs.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-hypermedia.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-hypermedia.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -68,7 +68,7 @@
     area of API operations is API driven, allowing it to be managed using APIs. Making
     the the frontline of API operations configurable using APIs, making this part
     of operations a much more agile, flexible, and powerful part of how APIs are done.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-globe.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-globe.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -84,7 +84,7 @@
     it comes to providing APis. There are usually two areas I look at as low hanging
     fruit, involved what is already on the website, and available via existing software
     systems. This is my work to track what is going on from this area of the API lifecycle.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-grapes.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-grapes.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -99,7 +99,7 @@
     web scraping and how this can be used to generate data, content and resources
     for APIs. &nbsp;I'm tracking on news and companies in the space, but also watching
     some of the politics and legalities around scraping.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-scraping.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-scraping.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -115,7 +115,7 @@
     that is stored in a central database is the number one way in which folks are
     deploying APIs, so I wanted to take the time and consider the database implications
     on the API lifecycle.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-database-new.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-database-new.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -128,7 +128,7 @@
   url: http://deployment.apievangelist.com
   description: A toolkit where I gather all the news, analysis, companies and technology
     when it comes to deploying APIs.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-deployment.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-api-deployment.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -144,7 +144,7 @@
     for others to use via a public unauthorized API. You can find news I've curated,
     organizations doing interesting things, some of the common building blocks I've
     identified, and open source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-pirate-flag.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-pirate-flag.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -160,7 +160,7 @@
     well, but play an important role in a larger strategy. I see microservices as
     more philosophy and culture than it is technology, but nonetheless it is an important
     aspect of API operation.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-microservice.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-microservice.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -175,7 +175,7 @@
     I will track on details here. I am a big proponent of algorithmic transparency
     using APIs, where the inputs and outputs of algorithms can be made available via
     APIs--pulling back the curtain a little bit on the black box that is often algorithms.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-algorithms.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-algorithms.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -192,7 +192,7 @@
     and this is where I"m trying to bring that into focus. You can find news I've
     curated, organizations doing interesting things, some of the common building blocks
     I've identified, and open source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-search.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-search.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -209,7 +209,7 @@
     eventually launch other areas specifically for artificial intelligence. You can
     find news I've curated, organizations doing interesting things, some of the common
     building blocks I've identified, and open source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-machine-learning.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-machine-learning.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -224,7 +224,7 @@
     APIs, but also help us better understand how clients are using APIs, what request
     and reponses look like, and the other finer details of operations. This is my
     work to understand the role proxies can play across the API lifecycle.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-proxy.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-proxy.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -241,7 +241,7 @@
     aspects of API operations, like test data, or may resources for training AI and
     machine learning. Virtualization is a pretty big umbrella, but this is my research
     into sorting through exactly what it is.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-virtulization.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-virtulization.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -262,7 +262,7 @@
     on. I think containerization will take API design, deployment, management and
     integration to the next phase, and closer the early visions of a programmable
     web we all started envisioning around 2005.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-shipping-container.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-shipping-container.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -279,7 +279,7 @@
     API management has matured to include service composition, establishing analysis
     and awarness, as well as reporting and billing on top of that activity. I'm looking
     to track on what is happening to API mangement now that it is being commoditized.
-  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/services/api-management.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -295,7 +295,7 @@
     tracking on how serverless is being leveraged to deploy simple, modular, single
     purpose APIs that can be deployed in any cloud infrastructure, and leveraged to
     not just build applicaitons, but also manage API infrastructure that drives it.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-serverless.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-serverless.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -312,7 +312,7 @@
     of the successful API portals I've come across, and aggregated them, and even
     crafted a simple set of API and developer portal templates that anyone can fork
     and put to use in their operations.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-portal.jpg
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-portal.jpg
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -328,7 +328,7 @@
     my research to track on the different approaches, and aggregate into a single
     approach I can apply to my own APIs, as well as share along the way. I have started
     crafting an API to help me organize all of it, so stay tuned.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-running.png
+  image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-running.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -345,7 +345,7 @@
     doing interesting things, some of the common building blocks I've identified,
     and open source tooling I've aggregated here in this research projects Github
     repository.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-documentation.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-documentation.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -361,7 +361,7 @@
     and tooling to help manage the frequently asked questions that surround API operations.
     It seems like a simple thing, but can go along way in helping making learning
     what an API does a lot easier.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-question-mark.png
+  image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-question-mark.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -377,7 +377,7 @@
     and organizing it here. I will keep working to organize better, and produce guides,
     and tooling. To help drive some of it I have also developed an API that will help
     me manage my open APIs, as well as the support on others.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-support.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-support.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -392,7 +392,7 @@
     one important component, communication. This is my work to track on the successful
     API efforts and better understand how they are communicating with developers,
     end users, and other stakeholders who are involved with an API.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-chat.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-chat.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -408,7 +408,7 @@
     aggregate this knowledge into a single place, so I can learn from, as well share
     knowledge along the way. I have also published an API to help me organize, and
     use across my API portals.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-roadmap.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-roadmap.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -424,7 +424,7 @@
     aggregate this knowledge into a single place, so I can learn from, as well share
     knowledge along the way. I have also published an API to help me organize, and
     use across my API portals.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-bug.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-bug.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -441,7 +441,7 @@
     are employing and communicating around their API. I'm aggregating the information,
     as well as deploying an API to help organize my change log across my projects,
     as well as share with everyone here.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-recycling.jpg
+  image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-recycling.jpg
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -457,7 +457,7 @@
     a variety of API services. Monitoring might be as simple as seeing if an API is
     up or down, or as complex as ensuring an API meets the requirements of any SLA
     that is present as part of API operations.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-heart-monitor.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-heart-monitor.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -473,7 +473,7 @@
     take a considerable amount of work. This is my work to understand the companies,
     services, tools, and the common building blocks that QA and API developers are
     using to get their job done.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-testing.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-testing.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -489,7 +489,7 @@
     and tooling they are using to do this. This area definitely overlaps with monitoring
     and testing, but is worthy of its own look to understand performance across the
     sector.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-performance.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-performance.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -505,7 +505,7 @@
     part of our API operations. You can find news I've curated, organizations doing
     interesting things, some of the common building blocks I've identified, and open
     source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-cache.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-cache.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -522,7 +522,7 @@
     reliability. You can find news I've curated, organizations doing interesting things,
     some of the common building blocks I've identified, and open source tooling I've
     aggregated here in this research projects Github repository.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-reliability.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-reliability.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -538,7 +538,7 @@
     and share the information here. REcently I am working to standardize some of this,
     and apply to my open APIs, while sharing the information tools, and APIs I create
     along the way.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-authentication-2.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-authentication-2.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -554,7 +554,7 @@
     on what API providers are doing when it comes to encryption, as well as keep an
     eye on the features that API service providers are offering up services, and tooling
     related to encryption.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-encryption.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-encryption.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -569,7 +569,7 @@
     being discovered out there. Not everything listed here is directly API related,
     but I think the wider understand helps my work in this area. Right now it is mostly
     curated news, but will be expanding information as I have time.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-vulnerabilities.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-vulnerabilities.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -586,7 +586,7 @@
     to learn here and apply to the API space. You can find news I've curated, organizations
     doing interesting things, some of the common building blocks I've identified,
     and open source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-breach.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-breach.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -603,7 +603,7 @@
     can find news I've curated, organizations doing interesting things, some of the
     common building blocks I've identified, and open source tooling in this research
     report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-padlock.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-padlock.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -618,7 +618,7 @@
     one of the most under discussed and shared area of the API communities. I'm determined
     in 2014 to bring API terms of service (TOS) front and center, increase the number
     of open tools and support services available for API providers and consumers.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-terms-of-use.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-terms-of-use.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -634,7 +634,7 @@
     can find news I've curated, organizations doing interesting things, some of the
     common building blocks I've identified, and open source tooling in this research
     report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-surveillance-camera.jpg
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-surveillance-camera.jpg
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -649,7 +649,7 @@
     of API providers, API consumers, as well as end users. You can find news I've
     curated, organizations doing interesting things, some of the common building blocks
     I've identified, and open source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-privacy.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-privacy.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -665,7 +665,7 @@
     You can find news I've curated, organizations doing interesting things, some of
     the common building blocks I've identified, and open source tooling in this research
     report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-cybersecurity.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-cybersecurity.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -682,7 +682,7 @@
     and individual, and share what I learn with others. You can find news I've curated,
     organizations doing interesting things, some of the common building blocks I've
     identified, and open source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-fist.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-fist.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -698,7 +698,7 @@
     not), and the role APIs can play. You can find news I've curated, organizations
     doing interesting things, some of the common building blocks I've identified,
     and open source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-transparency.jpg
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-transparency.jpg
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -714,7 +714,7 @@
     transparency, monitoring, and other aspects of the API lifecycle. You can find
     news I've curated, organizations doing interesting things, some of the common
     building blocks I've identified, and open source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-observable.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-observable.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -731,7 +731,7 @@
     You can find news I've curated, organizations doing interesting things, some of
     the common building blocks I've identified, and open source tooling in this research
     report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-creative-commons.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-creative-commons.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -747,7 +747,7 @@
     case here. You can find news I've curated, organizations doing interesting things,
     some of the common building blocks I've identified, and open source tooling in
     this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-copyright.gif
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-copyright.gif
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -763,7 +763,7 @@
     and seeing where we can evangelize in the API sector. You can find news I've curated,
     organizations doing interesting things, some of the common building blocks I've
     identified, and open source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-accessbility.jpg
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-accessbility.jpg
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -780,7 +780,7 @@
     You can find news I've curated, organizations doing interesting things, some of
     the common building blocks I've identified, and open source tooling in this research
     report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-brand.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-brand.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -797,7 +797,7 @@
     industries. This research area was started to better prepare for how regulation
     will be applied to APIs, as we see government and the tech industry continue to
     collide.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-government-regulation.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-government-regulation.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -813,7 +813,7 @@
     my analysis around the politics of APIs. You can find news I've curated, organizations
     doing interesting things, some of the common building blocks I've identified,
     and open source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-certificate.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-certificate.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -829,7 +829,7 @@
     something that is vastly more complex than just web search. You can find news
     I've curated, organizations doing interesting things, some of the common building
     blocks I've identified, and open source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-discovery.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/services/api-discovery.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -845,7 +845,7 @@
     for developing with APIs. You can find news I've curated, organizations doing
     interesting things, some of the common building blocks I've identified, and open
     source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-client.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-client.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -862,7 +862,7 @@
     and overlaps with APIs. You can find news I've curated, organizations doing interesting
     things, some of the common building blocks I've identified, and open source tooling
     in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-command-line.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-command-line.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -877,7 +877,7 @@
     a bot is these days, and how APIs are used as engines for these increasingly aware,
     active, nuggets of compute. I am looking at how APIs are used to drive bots, but
     also how are bots employed via API driven platforms like Twitter, and Slack.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-robots.jpeg
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-robots.jpeg
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -893,7 +893,7 @@
     of news as Internet of Things, so I needed a single place to aggregate, then carve
     off smaller trends other research projects. Pretty much any connected object gets
     lumped here, until I decide otherwise.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-internet-of-things.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-internet-of-things.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -909,7 +909,7 @@
     desktop tooling for developing with APIs. You can find news I've curated, organizations
     doing interesting things, some of the common building blocks I've identified,
     and open source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-industrial.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-industrial.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -925,7 +925,7 @@
     for developing with APIs. You can find news I've curated, organizations doing
     interesting things, some of the common building blocks I've identified, and open
     source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-network.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-network.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -942,7 +942,7 @@
     Github. You can find news I've curated, organizations doing interesting things,
     some of the common building blocks I've identified, and open source tooling in
     this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-ide.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-ide.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -958,7 +958,7 @@
     approaches to using SDKs that I've seen across the API sector. You can find news
     I've curated, organizations doing interesting things, some of the common building
     blocks I've identified, and open source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-sdk.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -975,7 +975,7 @@
     plug and play across a variety of platforms. You can find news I've curated, organizations
     doing interesting things, some of the common building blocks I've identified,
     and open source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-plugin.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-plugin.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -991,7 +991,7 @@
     operations. You can find news I've curated, organizations doing interesting things,
     some of the common building blocks I've identified, and open source tooling in
     this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-browser.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-browser.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1005,7 +1005,7 @@
   description: An embeddable strategy is an important part of any API providers strategy.
     This research is trying to understand the best approaches and technology when
     it comes to embeddable tools that depend on APIs.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-embeddable.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-embeddable.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1022,7 +1022,7 @@
     You can find news I've curated, organizations doing interesting things, some of
     the common building blocks I've identified, and open source tooling in this research
     report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-visualization.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-visualization.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1039,7 +1039,7 @@
     and analysis. You can find news I've curated, organizations doing interesting
     things, some of the common building blocks I've identified, and open source tooling
     in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-analysis.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-analysis.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1054,7 +1054,7 @@
     using APIs, and logging solutions that focus on using APIs. You can find news
     I've curated, organizations doing interesting things, some of the common building
     blocks I've identified, and open source tooling in this research repo.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-logging.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-logging.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1068,7 +1068,7 @@
   description: As the number of APIs grow, there is a lot of aggregation going on
     in social, personal and other prominent sectors like cloud computing. This research
     is trying to keep an eye on this potential trend.
-  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/trends/aggregation-trend.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/trends/aggregation-trend.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1084,7 +1084,7 @@
     APIs enable interoperability, two way communication that are in the interest of
     all parties involved. This research site focuses on how APIs are being abled to
     facility reciprocity between indivdiuals and groups in this connected world.
-  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/trends/reciprocity-trends.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/trends/reciprocity-trends.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1102,7 +1102,7 @@
     into focus more.You can find news I've curated, organizations doing interesting
     things, some of the common building blocks I've identified, and open source tooling
     in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/webhooks.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/webhooks.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1119,7 +1119,7 @@
     other things it is producing and consuming. You can find news I've curated, organizations
     doing interesting things, some of the common building blocks I've identified,
     and open source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-migration.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-migration.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1136,7 +1136,7 @@
     want to learn more. You can find news I've curated, organizations doing interesting
     things, some of the common building blocks I've identified, and open source tooling
     in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-backup.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-backup.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1151,7 +1151,7 @@
     this is being driven by APIs.&nbsp;I'm looking to understand who the key players
     are, what they are up to, as well as where the opportunities lie by aggregating
     news, analysis, companies and technology in a single project.
-  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/trends/real-time-2.jpg
+  image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/trends/real-time-2.jpg
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1166,7 +1166,7 @@
     continuous integration, and possibly devops. You can find news I've curated, organizations
     doing interesting things, some of the common building blocks I've identified,
     and open source tooling in this research repo.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-orchestration.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-orchestration.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1182,7 +1182,7 @@
     with APIs, and this is the exploration of that affinity. You can find news I've
     curated, organizations doing interesting things, some of the common building blocks
     I've identified, and open source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-microphone.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-microphone.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1203,7 +1203,7 @@
     that spreadsheets will be another one of those bridge tools we use to connect
     where we are going with APIs, with the reality of where the everyday person is,
     just trying to get their job done.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-excel-icon.jpg
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-excel-icon.jpg
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1219,7 +1219,7 @@
     public, etc. There is still a lot of work to be done here, but eventually I'd
     like to have more VC related information, as well as SEC filings. For now it will
     be just a list of curated news and anything I write about related to investment.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-investment.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-investment.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1235,7 +1235,7 @@
     as well. You can find news I've curated, organizations doing interesting things,
     some of the common building blocks I've identified, and open source tooling in
     this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-dollar-sign.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-dollar-sign.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1252,7 +1252,7 @@
     You can find news I've curated, organizations doing interesting things, some of
     the common building blocks I've identified, and open source tooling in this research
     report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-plan.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-plan.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1268,7 +1268,7 @@
     process. You can find news I've curated, organizations doing interesting things,
     some of the common building blocks I've identified, and open source tooling in
     this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-partner.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-partner.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1284,7 +1284,7 @@
     user--if it is about certification I am tracking on it here. You can find news
     I've curated, organizations doing interesting things, some of the common building
     blocks I've identified, and open source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-certification.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-certification.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1299,7 +1299,7 @@
     on that are API related, not because I'm interested in the funding, more about
     the reliability, stability, and viability of individual APIs, as well as the perception
     of the API space.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-acquisitions.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-acquisitions.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1315,7 +1315,7 @@
     consumers. You can find news I've curated, organizations doing interesting things,
     some of the common building blocks I've identified, and open source tooling in
     this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/t-shirts/KL_InApiWeTrust-1000.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/t-shirts/KL_InApiWeTrust-1000.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1331,7 +1331,7 @@
     platform. I find it is a sign, when API stop showcasing their developers and applications,
     of things are not right. This is my research into who is showcasing their devs,
     and how they do it.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-spotlights.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-spotlights.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1347,7 +1347,7 @@
     consumers. You can find news I've curated, organizations doing interesting things,
     some of the common building blocks I've identified, and open source tooling in
     this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-deprecation-2.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-deprecation-2.png
   imagewidth: ""
   category: Core Research
   brand: ""
